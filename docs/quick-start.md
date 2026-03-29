@@ -54,6 +54,6 @@ Windows 설치 파일 `.exe`를 실행해 GitBackup을 설치합니다.
 
 ## 잘 안될 때
 
-- 로그인되지 않으면 [GitHub 로그인 방법](/Users/k/DEV/gitbackup/docs/github-login.md)을 확인하세요.
-- 가져오기에 실패하면 [기존 저장소 가져오기](/Users/k/DEV/gitbackup/docs/import-existing-repository.md)를 확인하세요.
-- 오류가 계속되면 [문제 해결](/Users/k/DEV/gitbackup/docs/troubleshooting.md)을 확인하세요.
+- 로그인되지 않으면 [GitHub 로그인 방법](/docs/github-login.md)을 확인하세요.
+- 가져오기에 실패하면 [기존 저장소 가져오기](/docs/import-existing-repository.md)를 확인하세요.
+- 오류가 계속되면 [문제 해결](/docs/troubleshooting.md)을 확인하세요.
