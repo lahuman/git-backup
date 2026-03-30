@@ -67,7 +67,7 @@ GitBackup을 사용하려면 아래 항목이 필요합니다.
 기본적으로는 **대시보드**에서 현재 상태를 확인하고,  
 필요한 설정은 **설정**, 기존 저장소를 연결할 때는 **가져오기** 화면을 사용합니다.
 
-![GitBackup 대시보드 화면](/docs/images/gitbackup-dashboard.png)
+![GitBackup 대시보드 화면](/docs/images/git-backup-dashboard.png)
 
 ---
 
