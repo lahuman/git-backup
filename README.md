@@ -1,13 +1,10 @@
-# GitBackup Windows 설치 및 사용 가이드
-
-## 다운로드
-
 
 <a href="https://github.com/lahuman/git-backup/actions/workflows/build-on-push.yml">
   <img src="https://img.shields.io/badge/Windows-최신%20빌드%20다운로드-2ea44f?style=for-the-badge&logo=windows" alt="최신 빌드 다운로드" />
 </a>
 
-가장 최근 성공한 실행의 `Artifacts`에서 설치 파일을 받을 수 있습니다.
+# GitBackup Windows 설치 및 사용 가이드
+
 
 GitBackup은 **내 컴퓨터의 폴더를 GitHub 저장소에 안전하게 백업**할 수 있도록 돕는 Windows용 데스크톱 앱입니다.  
 이 문서는 **처음 설치하는 사용자**가 설치부터 로그인, 첫 백업 준비, 기존 백업 가져오기까지 한 번에 진행할 수 있도록 구성했습니다.
