@@ -24,3 +24,4 @@ jobs:
         with:
           name: GitBackup-Setup
           path: GitBackup-Setup-*-x64.exe
+          retention-days: 30
