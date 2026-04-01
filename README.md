@@ -1,5 +1,5 @@
 
-<a href="https://github.com/lahuman/git-backup/actions/workflows/build-on-push.yml">
+<a href="https://github.com/lahuman/git-backup/releases">
   <img src="https://img.shields.io/badge/Windows-최신%20빌드%20다운로드-2ea44f?style=for-the-badge&logo=windows" alt="최신 빌드 다운로드" />
 </a>
 
