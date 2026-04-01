@@ -1,13 +1,16 @@
-# GitBackup Pages Premium
+# GitBackup Pages Redesign
 
-이 폴더는 GitBackup GitHub Pages용 랜딩 페이지 프리미엄 버전입니다.
+첨부된 `stitch.zip` 디자인 방향을 참고해 새로 구성한 GitHub Pages용 랜딩 페이지입니다.
 
 ## 포함 파일
+
 - `index.html`
 - `styles.css`
-- `assets/*`
+- `assets/icon.png`
+- `assets/screen-main.png`
+- `assets/screen-settings.png`
+- `assets/screen-import.png`
 
-## 적용 방법
-1. 이 폴더 안의 파일을 저장소 `docs/` 폴더에 복사
-2. GitHub Pages가 `main` 브랜치의 `/docs`를 보도록 설정
-3. `https://lahuman.github.io/git-backup/` 에서 반영 확인
+## 배포 방법
+
+이 폴더의 내용을 저장소 `docs/` 아래에 복사한 뒤, GitHub Pages를 `main` 브랜치의 `/docs`로 설정하면 됩니다.
